@@ -1,0 +1,40 @@
+_repo: Joseph-Andrews-Vol.-2_9609
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Fielding, Henry
+    aliases:
+    - Trottplaid, John
+    - Vinegar, Hercules
+    - Drawcansir, Alexander, Sir
+    - Gualterus, Petrus
+    - Keyber, Conny
+    birthdate: 1707
+    deathdate: 1754
+    gutenberg_agent_id: '537'
+    url: http://www.gutenberg.org/2009/agents/537
+    wikipedia: http://en.wikipedia.org/wiki/Henry_Fielding
+description: ''
+gutenberg_bookshelf: Best Books Ever Listings
+gutenberg_issued: '2006-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '9609'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Humorous stories'
+- !lcsh 'Male friendship -- Fiction'
+- !lcsh 'Young men -- Fiction'
+- !lcsh 'Social classes -- Fiction'
+- !lcsh 'Bildungsromans'
+- !lcsh 'England -- Fiction'
+- !lcsh 'Household employees -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Adventure stories'
+- !lcsh 'Clergy -- Fiction'
+- GITenberg
+title: Joseph Andrews, Vol. 2
+url: http://www.gutenberg.org/ebooks/9609
